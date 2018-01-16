@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" name="Energy Chamber"/>
+        <card number="2" name="Grindclock"/>
+        <card number="2" name="Lux Cannon"/>
+        <card number="2" name="Voltaic Key"/>
+        <card number="4" name="Counterspell"/>
+        <card number="1" name="Isochron Scepter"/>
+        <card number="1" name="Ratchet Bomb"/>
+        <card number="3" name="Ludevic's Test Subject"/>
+        <card number="2" name="Condescend"/>
+        <card number="4" name="Mana Leak"/>
+        <card number="4" name="Path to Exile"/>
+        <card number="2" name="Tranquil Cove"/>
+    </zone>
+</cockatrice_deck>
