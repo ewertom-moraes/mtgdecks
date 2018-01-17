@@ -11,7 +11,6 @@
         <card number="2" name="Lux Cannon"/>
         <card number="1" name="Orochi Hatchery"/>
         <card number="2" name="Voltaic Key"/>
-        <card number="4" name="Counterspell"/>
         <card number="1" name="Isochron Scepter"/>
         <card number="1" name="Ratchet Bomb"/>
         <card number="2" name="Surge Node"/>
@@ -25,5 +24,6 @@
         <card number="4" name="Plains"/>
         <card number="2" name="Tranquil Cove"/>
         <card number="2" name="Throne of Geth"/>
+        <card number="4" name="Psychic Barrier"/>
     </zone>
 </cockatrice_deck>
