@@ -10,20 +10,20 @@
         <card number="2" name="Mirrodin's Core"/>
         <card number="2" name="Lux Cannon"/>
         <card number="1" name="Orochi Hatchery"/>
-        <card number="2" name="Voltaic Key"/>
-        <card number="1" name="Isochron Scepter"/>
+        <card number="3" name="Voltaic Key"/>
+        <card number="2" name="Isochron Scepter"/>
         <card number="1" name="Ratchet Bomb"/>
         <card number="2" name="Surge Node"/>
         <card number="3" name="Ludevic's Test Subject"/>
         <card number="2" name="Thrummingbird"/>
         <card number="2" name="Condescend"/>
         <card number="4" name="Mana Leak"/>
-        <card number="4" name="Path to Exile"/>
-        <card number="3" name="Tezzeret's Gambit"/>
+        <card number="1" name="Tezzeret's Gambit"/>
         <card number="12" name="Island"/>
         <card number="4" name="Plains"/>
         <card number="2" name="Tranquil Cove"/>
-        <card number="2" name="Throne of Geth"/>
         <card number="4" name="Psychic Barrier"/>
+        <card number="4" name="Swords to Plowshares"/>
+        <card number="2" name="Wrath of God"/>
     </zone>
 </cockatrice_deck>

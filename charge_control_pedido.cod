@@ -5,16 +5,17 @@
     <zone name="main">
         <card number="2" name="Energy Chamber"/>
         <card number="2" name="Grindclock"/>
-        <card number="2" name="Lux Cannon"/>
         <card number="2" name="Voltaic Key"/>
         <card number="2" name="Isochron Scepter"/>
-        <card number="1" name="Ratchet Bomb"/>
+        <card number="2" name="Ratchet Bomb"/>
         <card number="4" name="Ludevic's Test Subject"/>
-        <card number="2" name="Condescend"/>
         <card number="4" name="Psychic Barrier"/>
         <card number="2" name="Negate"/>
         <card number="2" name="Seat of the Synod"/>
         <card number="1" name="Great Furnace"/>
         <card number="4" name="Remove Soul"/>
+        <card number="2" name="Dispel"/>
+        <card number="2" name="End Hostilities"/>
+        <card number="4" name="Path to Exile"/>
     </zone>
 </cockatrice_deck>
