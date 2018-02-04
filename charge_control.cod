@@ -24,9 +24,9 @@
         <card number="10" name="Island"/>
         <card number="4" name="Plains"/>
         <card number="3" name="Tranquil Cove"/>
-        <card number="3" name="Render Silent"/>
+        <card number="2" name="Render Silent"/>
         <card number="4" name="Path to Exile"/>
-        <card number="2" name="Negate"/>
         <card number="2" name="End Hostilities"/>
+        <card number="2" name="Remove Soul"/>
     </zone>
 </cockatrice_deck>

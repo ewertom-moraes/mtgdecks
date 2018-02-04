@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" name="Snap"/>
+        <card number="4" name="Spell Pierce"/>
+        <card number="2" name="Halimar Depths"/>
+        <card number="2" name="Blighted Agent"/>
+        <card number="4" name="Llanowar Augur"/>
+        <card number="4" name="Distortion Strike"/>
+        <card number="4" name="Ranger's Guile"/>
+        <card number="4" name="Brainstorm"/>
+        <card number="4" name="Gitaxian Probe"/>
+        <card number="4" name="Simic Guildgate"/>
+        <card number="4" name="Nature's Claim"/>
+        <card number="4" name="Aqueous Form"/>
+        <card number="4" name="Predator's Strike"/>
+    </zone>
+</cockatrice_deck>
