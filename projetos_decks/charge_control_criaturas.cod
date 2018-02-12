@@ -7,12 +7,11 @@
 20 terrenos
 </comments>
     <zone name="main">
-        <card number="3" name="Coretapper"/>
+        <card number="2" name="Coretapper"/>
         <card number="2" name="Energy Chamber"/>
         <card number="2" name="Everflowing Chalice"/>
-        <card number="2" name="Grindclock"/>
-        <card number="3" name="Mirrodin's Core"/>
-        <card number="2" name="Orochi Hatchery"/>
+        <card number="2" name="Mirrodin's Core"/>
+        <card number="3" name="Orochi Hatchery"/>
         <card number="2" name="Voltaic Key"/>
         <card number="2" name="Isochron Scepter"/>
         <card number="2" name="Ratchet Bomb"/>
@@ -21,12 +20,14 @@
         <card number="2" name="Thrummingbird"/>
         <card number="4" name="Mana Leak"/>
         <card number="2" name="Tezzeret's Gambit"/>
-        <card number="10" name="Island"/>
-        <card number="4" name="Plains"/>
-        <card number="3" name="Tranquil Cove"/>
-        <card number="2" name="Render Silent"/>
+        <card number="8" name="Island"/>
+        <card number="6" name="Plains"/>
+        <card number="2" name="Tranquil Cove"/>
         <card number="4" name="Path to Exile"/>
-        <card number="2" name="End Hostilities"/>
-        <card number="2" name="Remove Soul"/>
+        <card number="2" name="Throne of Geth"/>
+        <card number="4" name="Chimeric Mass"/>
+        <card number="1" name="Prototype Portal"/>
+        <card number="3" name="Titan Forge"/>
+        <card number="3" name="Silence"/>
     </zone>
 </cockatrice_deck>

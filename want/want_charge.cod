@@ -8,5 +8,11 @@
         <card number="1" name="Thing in the Ice"/>
         <card number="1" name="Echo Mage"/>
         <card number="1" name="Memnarch"/>
+        <card number="1" name="Oketra's Last Mercy"/>
+        <card number="1" name="Ghostly Prison"/>
+        <card number="1" name="Chimeric Mass"/>
+        <card number="1" name="Prototype Portal"/>
+        <card number="1" name="Moment of Silence"/>
+        <card number="1" name="Dispatch"/>
     </zone>
 </cockatrice_deck>
