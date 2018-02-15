@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>teste</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Cavern of Souls"/>
+        <card number="10" price="0" name="Forest"/>
+        <card number="3" price="0" name="Nykthos, Shrine to Nyx"/>
+        <card number="1" price="0" name="Okina, Temple to the Grandfathers"/>
+        <card number="1" price="0" name="Pendelhaven"/>
+        <card number="4" price="0" name="Elvish Archdruid"/>
+        <card number="1" price="0" name="Elvish Champion"/>
+        <card number="1" price="0" name="Spellskite"/>
+        <card number="4" price="0" name="Heritage Druid"/>
+        <card number="4" price="0" name="Llanowar Elves"/>
+        <card number="2" price="0" name="Ezuri, Renegade Leader"/>
+        <card number="1" price="0" name="Scavenging Ooze"/>
+        <card number="4" price="0" name="Elvish Mystic"/>
+        <card number="1" price="0" name="Reclamation Sage"/>
+        <card number="4" price="0" name="Nettle Sentinel"/>
+        <card number="1" price="0" name="Eternal Witness"/>
+        <card number="1" price="0" name="Thragtusk"/>
+        <card number="4" price="0" name="Elvish Visionary"/>
+        <card number="1" price="0" name="Fauna Shaman"/>
+        <card number="4" price="0" name="Chord of Calling"/>
+        <card number="4" price="0" name="Collected Company"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Kitchen Finks"/>
+        <card number="1" price="0" name="Melira, Sylvok Outcast"/>
+        <card number="1" price="0" name="Reclamation Sage"/>
+        <card number="1" price="0" name="Eternal Witness"/>
+        <card number="2" price="0" name="Dismember"/>
+        <card number="2" price="0" name="Beast Within"/>
+        <card number="2" price="0" name="Fracturing Gust"/>
+        <card number="2" price="0" name="Choke"/>
+    </zone>
+</cockatrice_deck>
