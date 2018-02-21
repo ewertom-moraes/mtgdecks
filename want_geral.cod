@@ -48,5 +48,7 @@
         <card number="1" name="Azor's Elocutors"/>
         <card number="1" name="Conversion Chamber"/>
         <card number="1" name="Dawn Charm"/>
+        <card number="2" name="Ethereal Haze"/>
+        <card number="1" name="Repel the Abominable"/>
     </zone>
 </cockatrice_deck>
