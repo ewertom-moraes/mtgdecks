@@ -50,5 +50,6 @@
         <card number="1" name="Dawn Charm"/>
         <card number="2" name="Ethereal Haze"/>
         <card number="1" name="Repel the Abominable"/>
+        <card number="2" name="Ratchet Bomb"/>
     </zone>
 </cockatrice_deck>
