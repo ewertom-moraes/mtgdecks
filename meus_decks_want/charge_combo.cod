@@ -5,11 +5,11 @@
     <zone name="main">
         <card number="3" name="Voltaic Key"/>
         <card number="4" name="Coretapper"/>
-        <card number="4" name="Tezzeret the Seeker"/>
+        <card number="2" name="Tezzeret the Seeker"/>
         <card number="2" name="Dawn Charm"/>
         <card number="4" name="Path to Exile"/>
         <card number="4" name="Fabricate"/>
-        <card number="4" name="Everflowing Chalice"/>
+        <card number="3" name="Everflowing Chalice"/>
         <card number="2" name="The Chain Veil"/>
         <card number="4" name="Negate"/>
         <card number="2" name="Isochron Scepter"/>

@@ -15,5 +15,7 @@
         <card number="4" name="Ranger's Guile"/>
         <card number="4" name="Simic Guildgate"/>
         <card number="4" name="Distortion Strike"/>
+        <card number="2" name="Shrine of Burning Rage"/>
+        <card number="2" name="Jinxed Choker"/>
     </zone>
 </cockatrice_deck>
