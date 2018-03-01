@@ -14,11 +14,13 @@
         <card number="4" name="Negate"/>
         <card number="2" name="Isochron Scepter"/>
         <card number="1" name="Titan Forge"/>
-        <card number="3" name="Surge Node"/>
+        <card number="2" name="Surge Node"/>
         <card number="10" name="Island"/>
         <card number="8" name="Plains"/>
         <card number="4" name="Etherium Sculptor"/>
         <card number="2" name="Repel the Abominable"/>
         <card number="2" name="Ratchet Bomb"/>
+        <card number="2" name="Chimeric Mass"/>
+        <card number="1" name="Contagion Clasp"/>
     </zone>
 </cockatrice_deck>

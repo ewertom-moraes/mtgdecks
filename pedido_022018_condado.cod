@@ -6,5 +6,7 @@
         <card number="4" name="Fabricate"/>
         <card number="1" name="Tezzeret the Seeker"/>
         <card number="4" name="Galvanic Blast"/>
+        <card number="4" name="Nature's Claim"/>
+        <card number="4" name="Aqueous Form"/>
     </zone>
 </cockatrice_deck>
